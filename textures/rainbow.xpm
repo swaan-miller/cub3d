@@ -1,0 +1,29 @@
+/* XPM */
+static char *result[] = {
+/* columns rows colors chars-per-pixel */
+"64 16 7 1 ",
+"n c #f2221b",
+"x c #f76605",
+"v c #f7f702",
+"+ c #02f206",
+"u c #023ceb",
+"t c #a909ed",
+"o c #2faeed",
+/* pixels */
+"oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+"ooooooooooooooooooooooooooooonnnnnnnnooooooooooooooooooooooooooo",
+"ooooooooooooooooooooooooonnnnnnnnnnnnnnnnnoooooooooooooooooooooo",
+"oooooooooooooooooooonnnnnnxxxxxxxxxxxxxxnnnnnnoooooooooooooooooo",
+"ooooooooooooooooonnnnxxxxxxxvvvvvvvvvxxxxxxxnnnnoooooooooooooooo",
+"oooooooooooooonnnnxxxxxxvvvvvvvvvvvvvvvvvxxxxxxnnnoooooooooooooo",
+"oooooooooooonnnnxxxxxvvvvvv++++++++++vvvvvvvxxxxxnnnoooooooooooo",
+"ooooooooooonnnnxxxxxvvvvv+++++uuuuuu++++vvvvvxxxxxnnnnoooooooooo",
+"ooooooooonnnnnxxxxxvvv+++++uuuutttuuuu++++vvvvxxxxxnnnnnoooooooo",
+"ooooooonnnnnxxxxxvvvv++++uuuutttttttuuuu++++vvvvxxxxxnnnnnoooooo",
+"ooooonnnnnxxxxxvvvvv++++uuuutttoootttuuuuu++++vvvvxxxxxnnnnooooo",
+"ooonnnnnxxxxxvvvvvv++++uuuutttoooootttuuuuu++++vvvvvxxxxxnnnnooo",
+"oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+"oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo"
+};

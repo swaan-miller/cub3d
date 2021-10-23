@@ -1,0 +1,18 @@
+R 1000 900
+NO textures/stripes.xpm
+SO textures/rainbow.xpm
+EA textures/greystone.xpm
+WE textures/greystone.xpm
+S textures/stick_figure.xpm
+C 7, 159, 235
+F 158, 153, 157
+
+11111111
+10022001
+100N0001
+10000001
+10000001
+10200001
+10000001
+11111111
+
