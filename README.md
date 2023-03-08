@@ -21,4 +21,4 @@ Codam [42 Network] project: the aim of this project is to create a â€œrealisticâ
 - Applicative
 <br/><br/>
 
-![cub3d](https://github.com/subsp4ce/pics/blob/master/cub3d.png "cub3d")
+<img width="746" alt="cub3d" src="https://user-images.githubusercontent.com/61499691/223732541-b0f198b3-6643-4ebd-8058-5c2752861c75.png">
